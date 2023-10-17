@@ -272,7 +272,7 @@
 
 ### Ballerina
 
-* [[Introductory]Integration with Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN) - Shafreen Anfer
+* [[Introductory] Integration with Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN) - Shafreen Anfer
 * [Ballerina Code to Cloud](https://www.youtube.com/playlist?list=PL7JOecNWBb0I1YcKwNEyMewhiSvwhM4in) - Anjana Supun
 * [Ballerina Integrated Query Basics](https://www.youtube.com/playlist?list=PL7JOecNWBb0Lld0QfwGW4EKZEoeduyHKD) - Sasindu Alahakoon
 * [Ballerina Programming Language Basics](https://www.youtube.com/playlist?list=PL7JOecNWBb0L4CCqT3awXQUgf6Djl-Oxg) - Sasindu Alahakoon
